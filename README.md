@@ -11,8 +11,15 @@
 ## Tech Stack:
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abimnyud&theme=dark&hide_border=false&include_all_commits=false&layout=compact" align="center" />
-</div>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abimnyud&theme=dark&hide_border=false&include_all_commits=false&layout=compact" />
+</div>
+</br>
+<div align="center">
+  
+<a href="https://leetcode.com/abimnyud">![Leetcode Stats](https://leetcard.jacoblin.cool/abimnyud?ext=heatmap)</a>
+  
+</div>
+
 
 </br>
 
