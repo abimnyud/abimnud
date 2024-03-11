@@ -1,6 +1,6 @@
 
 ### <div align="center">Hello, World! 👋</div>  
-### <div align="center">I'm Abimanyu, back-end developer and creative enthusiast 👨‍💻🎨</div>  
+### <div align="center">I'm Abimanyu, software engineer and creative enthusiast 👨‍💻🎨</div>  
 
 
 <br/>  
